@@ -7,7 +7,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.androidtutorialshub.KarenForGov.R;
+import com.yu.KarenForGov.R;
 import com.yu.KarenForGov.model.User;
 
 import java.util.List;

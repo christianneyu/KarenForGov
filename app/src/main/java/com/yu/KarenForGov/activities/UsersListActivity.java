@@ -9,7 +9,7 @@ import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 
-import com.androidtutorialshub.KarenForGov.R;
+import com.yu.KarenForGov.R;
 import com.yu.KarenForGov.adapters.UsersRecyclerAdapter;
 import com.yu.KarenForGov.model.User;
 import com.yu.KarenForGov.sql.DatabaseHelper;
