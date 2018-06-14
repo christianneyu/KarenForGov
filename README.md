@@ -11,6 +11,7 @@ Here are instructions on how to run the app.
 3. Once the project is opened in Android Studio, wait for it to build properly 
 ![alt text](http://i65.tinypic.com/tak18o.jpg)
 
+
 ![alt text](http://i64.tinypic.com/ei61af.jpg)
 
 
@@ -36,6 +37,7 @@ RegistrationActivity.java
 
 
 7. Fill up the form. I added Email to the feature. And click Register.
+
 ![alt text](http://i68.tinypic.com/2hwzj89.jpg)
 
 
@@ -44,4 +46,4 @@ RegistrationActivity.java
 
 9. Press back button to register again.
 
-**_Database used: SQLite (local) _** 
+**_ Database used: SQLite (local)  _** 
