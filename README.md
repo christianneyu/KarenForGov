@@ -2,7 +2,7 @@
 # Karen's volunteer app. 
 Here are instructions on how to run the app.
 
-##*Instructions:*
+## *Instructions:*
 ###
 1. Clone or download this repository.
 
