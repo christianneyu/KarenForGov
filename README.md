@@ -50,4 +50,4 @@ RegistrationActivity.java
 
 9. Press back button to register again.
 
-**_Database used: SQLite (local)**
+**_Database used: SQLite (local)_**
