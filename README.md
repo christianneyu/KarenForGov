@@ -21,12 +21,15 @@ Here are instructions on how to run the app.
  
  
 5 .Select a device, either your mobile phone (set it to developer mode) or an emulator like this.
+
 ![alt text](http://i65.tinypic.com/2virvit.jpg)
 
 In 3 minutes, this would appear even when the app is still building.
+
 ![alt text](http://i63.tinypic.com/2sbpcno.jpg)
 
 And then the emulator becomes like this and automatically opens the app, if it stays like this, run the app again.
+
 ![alt text](http://i66.tinypic.com/j7u3va.jpg)
 
 6. When the app has finished building, 5 minutes or more for the first run, depending how fast the pc is, the registration form looks like this.
@@ -42,8 +45,9 @@ RegistrationActivity.java
 
 
 8. The user is now registered and goes to a page where there is a list of all accounts regsitered. 
+
 ![alt text](http://i67.tinypic.com/k19qoh.jpg)
 
 9. Press back button to register again.
 
-**_ Database used: SQLite (local)  _** 
+**_Database used: SQLite (local)**
